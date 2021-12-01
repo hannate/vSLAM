@@ -1,1 +1,1 @@
-# verbose-adventure
+# Thomas Hanna's Little playground for OpenCV and maybe a vSLAM algorithm.
